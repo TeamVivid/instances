@@ -1,0 +1,10 @@
+{
+  "instances": [
+    {
+      "url": "https://vivid.errexe.xyz",
+      "region": "DE",
+      "proxy": true,
+      "cloudflare": true
+    }
+  ]
+}
