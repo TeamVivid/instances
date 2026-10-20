@@ -17,8 +17,8 @@ function buildTable(instances) {
   const rows = instances.map((i) => {
     const status = i.reachable ? "" : " ⚠️ unreachable";
     const url = `[${i.url}](${i.url})${status}`;
-    const proxy = i.proxy ? "✅" : "❌";
-    const cloudflare = i.cloudflare ? "✅" : "❌";
+    const proxy = i.proxy ? "yes" : "no";
+    const cloudflare = i.cloudflare ? "yes" : "no";
     const behind = i.versions_behind === null ? "–" : i.versions_behind;
     const customSource = i.custom_source
       ? i.source_url
