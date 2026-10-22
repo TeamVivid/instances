@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:41:54.555Z",
+  "generated_at": "2026-10-22T17:47:13.879Z",
   "instances": [
     {
       "url": "https://vivid.errexe.xyz",
@@ -7,8 +7,8 @@
       "proxy": true,
       "cloudflare": true,
       "reachable": true,
-      "version": "1ddebc5",
-      "versions_behind": 0,
+      "version": "1c0640b",
+      "versions_behind": null,
       "custom_source": false,
       "source_url": "https://github.com/TeamVivid/Vivid",
       "custom_privacy_policy": true,
