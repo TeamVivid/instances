@@ -11,5 +11,5 @@ You can add an instance by forking this repository, changing `instances-source.j
 <!-- INSTANCES:START -->
 | URL | Region | Proxy | Cloudflare | Version | Versions Behind | Custom Source | Custom Privacy Policy |
 |-----|--------|-------|------------|---------|------------------|----------------|------------------------|
-| [https://vivid.errexe.xyz](https://vivid.errexe.xyz) ⚠️ unreachable | DE | yes | yes | unreachable | – | no | no |
+| [https://vivid.errexe.xyz](https://vivid.errexe.xyz) | DE | yes | yes | aa0ab41 | 0 | no | no |
 <!-- INSTANCES:END -->

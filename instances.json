@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-11-27T14:33:30.989Z",
+  "generated_at": "2026-11-27T23:07:08.853Z",
   "instances": [
     {
       "url": "https://vivid.errexe.xyz",
       "region": "DE",
       "proxy": true,
       "cloudflare": true,
-      "reachable": false,
-      "version": "unreachable",
-      "versions_behind": null,
-      "custom_source": null,
-      "source_url": null,
-      "custom_privacy_policy": null,
-      "privacy_policy_url": null,
-      "error": "HTTP 502"
+      "reachable": true,
+      "version": "aa0ab41",
+      "versions_behind": 0,
+      "custom_source": false,
+      "source_url": "https://github.com/TeamVivid/Vivid",
+      "custom_privacy_policy": false,
+      "privacy_policy_url": null
     }
   ]
 }
